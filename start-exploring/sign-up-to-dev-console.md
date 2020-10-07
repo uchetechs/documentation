@@ -7,6 +7,11 @@ description: >-
 # Sign Up to Management Console
 
 **How to create a new Developer account on Management Console**
+---> Interface has been changed
+---> When signing up, you won't be able to select Public VPN as before.
+---> As a consumer, oversage isn't free, now paid.
+---> Only existing users are able to use "Public VPN".
+
 
 1. Open [https://developer.anchorfree.com](https://developer.anchorfree.com/#)
 2. Click the ‘Sign up’ button in the top-right corner:
